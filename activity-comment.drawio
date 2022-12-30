@@ -1,1 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2022-12-30T06:45:07.277Z" agent="5.0 (X11)" version="20.7.4" etag="XNtxSfM1qdgzAxKJwdLj" type="github"><diagram id="qnuNlqxfTOIr85S92XnU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-30T06:51:48.748Z" agent="5.0 (X11)" version="20.7.4" etag="yD9m4AyDT18FlaTtv5kO" type="github">
+  <diagram id="hf2oIkFFhCUg8U2GdiH_" name="Page-1">
+    <mxGraphModel dx="1434" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8Jw_ueiU19MAKspn_LBb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Jw_ueiU19MAKspn_LBb-1" target="8Jw_ueiU19MAKspn_LBb-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Jw_ueiU19MAKspn_LBb-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8Jw_ueiU19MAKspn_LBb-3" value="&lt;div&gt;End&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="870" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8Jw_ueiU19MAKspn_LBb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Jw_ueiU19MAKspn_LBb-4" target="8Jw_ueiU19MAKspn_LBb-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Jw_ueiU19MAKspn_LBb-4" value="The user views a blog post" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Jw_ueiU19MAKspn_LBb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Jw_ueiU19MAKspn_LBb-5" target="8Jw_ueiU19MAKspn_LBb-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Jw_ueiU19MAKspn_LBb-5" value="The user writes a comment, adds a name and an email address" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Jw_ueiU19MAKspn_LBb-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Jw_ueiU19MAKspn_LBb-6" target="8Jw_ueiU19MAKspn_LBb-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Jw_ueiU19MAKspn_LBb-6" value="The user presses the submit button" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Jw_ueiU19MAKspn_LBb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Jw_ueiU19MAKspn_LBb-7" target="8Jw_ueiU19MAKspn_LBb-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Jw_ueiU19MAKspn_LBb-21" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Jw_ueiU19MAKspn_LBb-7" target="8Jw_ueiU19MAKspn_LBb-9">
+          <mxGeometry x="-0.7561" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Jw_ueiU19MAKspn_LBb-23" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Jw_ueiU19MAKspn_LBb-7" target="8Jw_ueiU19MAKspn_LBb-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Jw_ueiU19MAKspn_LBb-7" value="&lt;div&gt;Is the entered&lt;/div&gt;&lt;div&gt;email valid?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="500" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8Jw_ueiU19MAKspn_LBb-17" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Jw_ueiU19MAKspn_LBb-8" target="8Jw_ueiU19MAKspn_LBb-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Jw_ueiU19MAKspn_LBb-20" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Jw_ueiU19MAKspn_LBb-8" target="8Jw_ueiU19MAKspn_LBb-11">
+          <mxGeometry x="-0.7674" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Jw_ueiU19MAKspn_LBb-8" value="&lt;div&gt;Do the comments&lt;/div&gt;&lt;div&gt;need reviewing?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="630" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8Jw_ueiU19MAKspn_LBb-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Jw_ueiU19MAKspn_LBb-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Jw_ueiU19MAKspn_LBb-9" value="Show an &quot;Invalid email&quot; error" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Jw_ueiU19MAKspn_LBb-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Jw_ueiU19MAKspn_LBb-10" target="8Jw_ueiU19MAKspn_LBb-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Jw_ueiU19MAKspn_LBb-10" value="Save the comment with an &quot;to be reviewed&quot; flag" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Jw_ueiU19MAKspn_LBb-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8Jw_ueiU19MAKspn_LBb-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Jw_ueiU19MAKspn_LBb-11" value="Save and show the comment under the post" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
