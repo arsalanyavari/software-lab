@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-30T14:53:01.258Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Kv1Ghg5-LiXmGqXxFH6D" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-30T14:54:14.520Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="93rrjnMNcMzSkTI7dX-e" version="20.7.4" type="github">
   <diagram id="B4VIHV4gWbedfGvLxSOv" name="Page-1">
     <mxGraphModel dx="1420" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,16 +13,16 @@
         <mxCell id="CRqFt1msTzASwH1DAxI6-4" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="262.5" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CRqFt1msTzASwH1DAxI6-7" value="سرویس ایمیل" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CRqFt1msTzASwH1DAxI6-7" value="Email Service" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CRqFt1msTzASwH1DAxI6-8" value="sms سرویس" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CRqFt1msTzASwH1DAxI6-8" value="sms Service" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="332.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CRqFt1msTzASwH1DAxI6-9" value="درگاه پرداخت بانکی" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CRqFt1msTzASwH1DAxI6-9" value="Bank Payment Gateway" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CRqFt1msTzASwH1DAxI6-10" value="شبکه‌های احتماعی" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CRqFt1msTzASwH1DAxI6-10" value="Social Medias" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CRqFt1msTzASwH1DAxI6-12" value="Edit Account Information" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -43,7 +43,7 @@
         <mxCell id="CRqFt1msTzASwH1DAxI6-22" value="Send Messages to Users" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="660" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CRqFt1msTzASwH1DAxI6-23" value="مدیر" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="CRqFt1msTzASwH1DAxI6-23" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="855" y="670" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CRqFt1msTzASwH1DAxI6-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="CRqFt1msTzASwH1DAxI6-13" target="CRqFt1msTzASwH1DAxI6-7" edge="1">
