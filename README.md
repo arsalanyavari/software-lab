@@ -1,5 +1,24 @@
 # soft-bodies
 
-This repository is related to use-case and activities diagram in the software engineering course.
+This repository is related to software engineering course labratory in [Fall 401 semester].
 
-You can view the output files using the [draw.io](draw.io) site or see the outputs in [activities-output](https://github.com/arsalanyavari/soft-bodies/tree/main/activities/activities-output) and [use-case-output](https://github.com/arsalanyavari/soft-bodies/tree/main/use-case/use-case-output) folders.
+Our project was about the auto generation of letters in Farsi language using artificial intelligence.
+
+# Table and Content
+- [x] proposal
+  - [proposal file](software-lab/blob/main/proposal/proposal.pdf)
+  - [presentation file](software-lab/blob/main/proposal/presentation/soft-lab-presentation.pdf)
+- [x] requirements and user story
+  - [requirements file](software-lab/requirements/requirements.pdf)
+  - [userstory file](software-lab/userstory/UserStory.pdf)
+- [x] activity diagram
+  - [files](software-lab/activities)
+  - [outputs](software-lab/activities/activities-output)
+  - **You can view the \*.drawio using the [draw.io](draw.io) site**
+- [x] use-case diagram
+  - [files](software-lab/use-case)
+  - [outputs](software-lab/use-case/use-case-output)
+  - **You can view the \*.drawio using the [draw.io](draw.io) site**
+- [x] use-case description
+  - [use-case description](software-lab/use-case-description) 
+
