@@ -21,4 +21,11 @@ Our project was about the auto generation of letters in Farsi language using art
   - **You can view the \*.drawio using the [draw.io](draw.io) site**
 - [x] use-case description
   - [use-case description](software-lab/use-case-description) 
-
+- [ ] crc cards
+- [ ] class diagram
+- [ ] sequence digram
+- [ ] communication diagram
+- [ ] state diagram
+- [ ] UI
+- [ ] Final presentation
+- [ ] Optional presentation (about design patterns)
