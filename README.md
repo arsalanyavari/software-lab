@@ -6,21 +6,21 @@ Our project was about the auto generation of letters in Farsi language using art
 
 # Table and Content
 - [x] proposal
-  - [proposal file](software-lab/blob/main/proposal/proposal.pdf)
-  - [presentation file](software-lab/blob/main/proposal/presentation/soft-lab-presentation.pdf)
+  - [proposal file](proposal/proposal.pdf)
+  - [presentation file](proposal/presentation/soft-lab-presentation.pdf)
 - [x] requirements and user story
-  - [requirements file](software-lab/requirements/requirements.pdf)
-  - [userstory file](software-lab/userstory/UserStory.pdf)
+  - [requirements file](requirements/requirements.pdf)
+  - [userstory file](userstory/UserStory.pdf)
 - [x] activity diagram
-  - [files](software-lab/activities)
-  - [outputs](software-lab/activities/activities-output)
+  - [files](activities)
+  - [outputs](activities/activities-output/)
   - **You can view the \*.drawio using the [draw.io](draw.io) site**
 - [x] use-case diagram
   - [files](software-lab/use-case)
-  - [outputs](software-lab/use-case/use-case-output)
+  - [outputs](use-case/use-case-output)
   - **You can view the \*.drawio using the [draw.io](draw.io) site**
 - [x] use-case description
-  - [use-case description](software-lab/use-case-description) 
+  - [use-case description](use-case-description) 
 - [ ] crc cards
 - [ ] class diagram
 - [ ] sequence digram
