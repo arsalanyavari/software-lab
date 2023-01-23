@@ -16,7 +16,7 @@ Our project was about the auto generation of letters in Farsi language using art
   - [outputs](activities/activities-output/)
   - **You can view the \*.drawio using the [draw.io](draw.io) site**
 - [x] use-case diagram
-  - [files](software-lab/use-case)
+  - [files](use-case)
   - [outputs](use-case/use-case-output)
   - **You can view the \*.drawio using the [draw.io](draw.io) site**
 - [x] use-case description
