@@ -22,10 +22,15 @@ Our project was about the auto generation of letters in Farsi language using art
 - [x] use-case description
   - [use-case description](use-case-description) 
 - [ ] crc cards
-- [ ] class diagram
+- [x] class diagram
+  - [file](class-diagram/class-diagram.drawio)
+  - [output](class-diagram/class-diagram.png)
+  - **You can view the \*.drawio using the [draw.io](draw.io) site**
 - [ ] sequence digram
 - [ ] communication diagram
 - [ ] state diagram
 - [ ] UI
 - [ ] Final presentation
-- [ ] Optional presentation (about design patterns)
+- [x] Optional presentation: about design patterns
+  - [presentation file](design-pattern/design-patterns.pdf)
+  - [sample codes](design-pattern/codes/)
