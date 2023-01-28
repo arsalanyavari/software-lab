@@ -27,13 +27,15 @@ Our project was about the auto generation of letters in Farsi language using art
   - [output](class-diagram/class-diagram.png)
   - **You can view the \*.drawio using the [draw.io](draw.io) site**
 - [x] sequence diagram
-  - [files](sequence diagrams/)
+  - [files](sequence-diagrams/)
+  - [outputs](sequence-diagrams/outputs/)
 - [ ] communication diagram
 - [x] state diagram
   - [files](state-diagram/)
   - [outputs](state-diagram/state-diagram-output/)
 - [ ] UI
-- [ ] Final presentation
+- [x] Final presentation
+  - [pdf](design-specification/design-Specifications.pdf)
 - [x] Optional presentation: about design patterns
   - [presentation file](design-pattern/design-patterns.pdf)
   - [sample codes](design-pattern/codes/)
