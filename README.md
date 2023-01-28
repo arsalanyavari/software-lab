@@ -33,7 +33,10 @@ Our project was about the auto generation of letters in Farsi language using art
 - [x] state diagram
   - [files](state-diagram/)
   - [outputs](state-diagram/state-diagram-output/)
-- [ ] UI
+- [x] UI
+  - [files](ui/)
+  - [outputs](ui/output)
+  - **Files created using adobe xd**
 - [x] Final presentation
   - [pdf](design-specification/design-Specifications.pdf)
 - [x] Optional presentation: about design patterns
